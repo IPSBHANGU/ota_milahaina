@@ -1,0 +1,21 @@
+{
+  "updates": [
+    {
+      "date": "2023-02-08",
+      "datetime": "1675872275",
+      "filename": "merged-qssi_lahaina-ota.zip",
+      "url": "https://nc.androidrom.dev/s/Zts98Rnc4HSkLs8/download/merged-qssi_lahaina-ota.zip",
+      "fastboot": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "6cb173b6e0def8028a4b261ec110409a558afb16e1f1476f2d766a33f6faf7f2",
+      "size": "1660083917",
+      "build_type": "release",
+      "version_code": "user",
+      "version": "TKQ1.221220.001", 
+      "android_version": "13",
+      "android_spl": "2022-11-05",
+      "changelog_device": "Initial OTA Testing!"
+    }
+   ]
+}
