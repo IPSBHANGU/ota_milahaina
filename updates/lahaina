@@ -33,23 +33,6 @@
       "android_version": "13",
       "android_spl": "2022-11-05",
       "changelog_device": "Initial OTA Testing!"
-    },
-    {
-      "date": "2023-02-11",
-      "datetime": "1676102769",
-      "filename": "merged-qssi_lahaina-ota.zip",
-      "url": "https://nc.androidrom.dev/s/cb4jNpCarYC998L/download/merged-qssi_lahaina-ota.zip",
-      "fastboot": "",
-      "mirror": "",
-      "telegram": "",
-      "id": "6ee2b22288900c41fc55db92f2bd69ff001c252b2f061e74bd4575f29db6dae9",
-      "size": "2471270756",
-      "build_type": "release",
-      "version_code": "4",
-      "version": "TKQ1.221220.001", 
-      "android_version": "13",
-      "android_spl": "2022-11-05",
-      "changelog_device": "Initial OTA Testing!"
     }
    ]
 }
