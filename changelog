@@ -19,6 +19,7 @@
             "version_code": "5",
             "build_type": "release",
             "id": "",
-            "changelog_main": "<b>New Milahaina is here!</b> <br><br>This update adds stability improvements, as well a>        }
+            "changelog_main": "<b>New Milahaina is here!</b> <br><br>This update adds stability improvements, as well as fixes critical bugs.<br><br>"
+        }
     ]
 }
