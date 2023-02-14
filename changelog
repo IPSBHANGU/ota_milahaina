@@ -6,6 +6,13 @@
             "build_type": "release",
             "id": "",
             "changelog_main": "<b>New Update is here!</b> <br><br>This update adds stability improvements, as well as fixes critical bugs.<br><br>"
+        },
+        {
+            "version": "TKQ1.221220.001",
+            "version_code": "4",
+            "build_type": "release",
+            "id": "0b8340a1f1b96c128113d7d8bba40f571d46a10cc732340c9d24ba56b9afcca5",
+            "changelog_main": "<b>New Milahaina is here!</b> <br><br>This update adds stability improvements, as well as fixes critical bugs.<br><br>"
         }
     ]
 }
