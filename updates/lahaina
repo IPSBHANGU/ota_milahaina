@@ -33,6 +33,23 @@
       "android_version": "13",
       "android_spl": "2022-11-05",
       "changelog_device": "Initial OTA Testing!"
+    },
+    {
+      "date": "2023-02-14",
+      "datetime": "1676373360",
+      "filename": "merged-qssi_lahaina-ota.zip",
+      "url": "https://nc.androidrom.dev/s/3K5ZLFgnHA7bBnS/download/merged-qssi_lahaina-ota.zip",
+      "fastboot": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "0b8340a1f1b96c128113d7d8bba40f571d46a10cc732340c9d24ba56b9afcca5",
+      "size": "2471950709",
+      "build_type": "release",
+      "version_code": "4",
+      "version": "TKQ1.221220.001",
+      "android_version": "13",
+      "android_spl": "2022-11-05",
+      "changelog_device": "Initial OTA Testing!, Add FaceUnlock Service"
     }
    ]
 }
