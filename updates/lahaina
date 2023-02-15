@@ -2,20 +2,20 @@
   "updates": [
     {
       "date": "2023-02-15",
-      "datetime": "1676479624",
-      "filename": "T.20230214.153032_T.20230215.175044-incremental_ota_update.zip",
-      "url": "https://nc.androidrom.dev/s/A9zf2nrZA3syZGQ/download/T.20230214.153032_T.20230215.175044-incremental_ota_update.zip",
+      "datetime": "1676488923",
+      "filename": "merged-qssi_lahaina-ota.zip",
+      "url": "https://nc.androidrom.dev/s/KBNwSP25pbWXs8g/download/merged-qssi_lahaina-ota.zip",
       "fastboot": "",
       "mirror": "",
       "telegram": "",
-      "id": "7e49ee3d9c0111e3fb404d9ef02cfdc97efbcebe9ec7e717cde8573dc188ee7e",
-      "size": "239073",
+      "id": "1dbf59b67e0d8eb3b4af0332ffabcfaf9ceae67e99b3fd49aabf8369c9f66756",
+      "size": "2478678222",
       "build_type": "release",
       "version_code": "7",
       "version": "TKQ1.221220.001",
       "android_version": "13",
       "android_spl": "2022-11-05",
-      "changelog_device": "its increamental"
+      "changelog_device": "Add missing lib again!!"
     },
     {
       "date": "2023-02-15",
