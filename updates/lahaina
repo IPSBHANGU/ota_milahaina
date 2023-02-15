@@ -2,6 +2,23 @@
   "updates": [
     {
       "date": "2023-02-15",
+      "datetime": "1676479624",
+      "filename": "T.20230214.153032_T.20230215.175044-incremental_ota_update.zip",
+      "url": "https://nc.androidrom.dev/s/A9zf2nrZA3syZGQ/download/T.20230214.153032_T.20230215.175044-incremental_ota_update.zip",
+      "fastboot": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "7e49ee3d9c0111e3fb404d9ef02cfdc97efbcebe9ec7e717cde8573dc188ee7e",
+      "size": "239073",
+      "build_type": "release",
+      "version_code": "7",
+      "version": "TKQ1.221220.001",
+      "android_version": "13",
+      "android_spl": "2022-11-05",
+      "changelog_device": "its increamental"
+    },
+    {
+      "date": "2023-02-15",
       "datetime": "1676475873",
       "filename": "merged-qssi_lahaina-ota.zip",
       "url": "https://nc.androidrom.dev/s/rWa8bwczqKcKFga/download/merged-qssi_lahaina-ota.zip",
