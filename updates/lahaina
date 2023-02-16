@@ -2,6 +2,23 @@
   "updates": [
     {
       "date": "2023-02-16",
+      "datetime": "1676553489",
+      "filename": "T.20230216.043406_T.20230216.142213-incremental_ota_update.zip",
+      "url": "https://nc.androidrom.dev/s/BzJSnZDQp6WH5Co/download/T.20230216.043406_T.20230216.142213-incremental_ota_update.zip",
+      "fastboot": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "75787c9cb807b9e53a2192d95eff26781e4e5ad1a977bf78ed032229ee48bf9a",
+      "size": "14847670",
+      "build_type": "release",
+      "version_code": "9",
+      "version": "TKQ1.221220.001",
+      "android_version": "13",
+      "android_spl": "2022-11-05",
+      "changelog_device": "Fix Content based refresh rate, Increament from T.20230216.043406 to T.20230216.142213"
+    },
+    {
+      "date": "2023-02-16",
       "datetime": "1676518194",
       "filename": "T.20230215.175044_T.20230216.043406-incremental_ota_update.zip",
       "url": "https://nc.androidrom.dev/s/FKmrHj8kf6PisZ4/download/T.20230215.175044_T.20230216.043406-incremental_ota_update.zip",
