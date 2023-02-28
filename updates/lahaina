@@ -14,7 +14,7 @@
       "version_code": "10",
       "version": "TKQ1.221220.001",
       "android_version": "13",
-      "android_spl": "2022-11-05",
+      "android_spl": "2022-12-05",
       "changelog_device": "Fix Proximity wakelocks for mius, Increament from T.20230216.142213 to T.20230228.160214"
     },
     {
