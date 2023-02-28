@@ -49,5 +49,12 @@
             "id": "",
             "changelog_main": "<b>New Milahaina is here!</b> <br><br>This update adds stability improvements, as well as fixes critical bugs.<br><br>"
         }
+        {
+            "version": "TKQ1.221220.001",
+            "version_code": "10",
+            "build_type": "release",
+            "id": "",
+            "changelog_main": "<b>New Milahaina is here!</b> <br><br>This update adds stability improvements, as well as fixes critical bugs.<br><br>"
+        }
     ]
 }

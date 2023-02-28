@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-02-28",
+      "datetime": "1677596362",
+      "filename": "T.20230216.142213_T.20230228.160214-incremental_ota_update.zip",
+      "url": "https://nc.androidrom.dev/s/cT58cTrDN3RPDBn/download/T.20230216.142213_T.20230228.160214-incremental_ota_update.zip",
+      "fastboot": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "6071f81aa68fa66b9d5b13d83a1adb4a156e27b3b0a18dd34096a3d5744f14d8",
+      "size": "35822322",
+      "build_type": "release",
+      "version_code": "10",
+      "version": "TKQ1.221220.001",
+      "android_version": "13",
+      "android_spl": "2022-11-05",
+      "changelog_device": "Fix Proximity wakelocks for mius, Increament from T.20230216.142213 to T.20230228.160214"
+    },
+    {
       "date": "2023-02-16",
       "datetime": "1676553489",
       "filename": "T.20230216.043406_T.20230216.142213-incremental_ota_update.zip",
