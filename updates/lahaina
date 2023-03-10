@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-03-10",
+      "datetime": "1678442846",
+      "filename": "merged-qssi_lahaina-ota.zip",
+      "url": "https://nc.androidrom.dev/s/e6baywr4bbe92pG/download/merged-qssi_lahaina-ota.zip",
+      "fastboot": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "8841653fc7585506c2b4719934dae69742651d9f48121f977f95a7b85539c803",
+      "size": "2526746837",
+      "build_type": "release",
+      "version_code": "11",
+      "version": "TKQ1.230213.001",
+      "android_version": "13",
+      "android_spl": "2023-02-05",
+      "changelog_device": "Launcher: Make app-drawer search bar round, Launcher: Allow Google SearchBar Widget to be removes, Launcher: Add Double tap sleep gesture, SystemUI: Remove VoLTE & VoWIFI icons from status bar, SystemUI: Make Corners Round! Follow A13 UI Guidelines, Settings: Fix ugly background at search bar in dark mode, Settings: Make Search bar round, Settings: Enable Adaptive Brightness by-default"
+    },
+    {
       "date": "2023-02-28",
       "datetime": "1677596362",
       "filename": "T.20230216.142213_T.20230228.160214-incremental_ota_update.zip",
