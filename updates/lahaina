@@ -2,6 +2,23 @@
   "updates": [
     {
       "date": "2023-04-02",
+      "datetime": "1680460205",
+      "filename": "T.20230312.193908_T.20230402.203443-incremental_ota_update.zip",
+      "url": "https://gitlab.com/inderpreetsinghb/milahaina_releases/-/raw/9f051932eab0fb2ea0e819ca04bc939e2965187d/T.20230312.193908_T.20230402.203443-incremental_ota_update.zip",
+      "fastboot": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "f507984fed092365477ff36d2cf74fd4f0132684ab0b64d7ae61e3f0ef804493",
+      "size": "51642671",
+      "build_type": "release",
+      "version_code": "15",
+      "version": "TKQ1.230213.001",
+      "android_version": "13",
+      "android_spl": "2023-02-01",
+      "changelog_device": "System: Fix charging detection for vili and haydn"
+    },
+    {
+      "date": "2023-04-02",
       "datetime": "1680413319",
       "filename": "merged-qssi_lahaina-ota.zip",
       "url": "https://gitlab.com/inderpreetsinghb/milahaina_releases/-/raw/d204d54d9091cc5d67677355ac9d790fbdb6de4a/merged-qssi_lahaina-ota.zip",
