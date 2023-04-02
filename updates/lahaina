@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-04-02",
+      "datetime": "1680413319",
+      "filename": "merged-qssi_lahaina-ota.zip",
+      "url": "https://gitlab.com/inderpreetsinghb/milahaina_releases/-/raw/d204d54d9091cc5d67677355ac9d790fbdb6de4a/merged-qssi_lahaina-ota.zip",
+      "fastboot": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "22ce63a611f504971dd1ea1875e1d153558387fb9ad0394cd3d63d3a44ba3e8f",
+      "size": "2561345686",
+      "build_type": "release",
+      "version_code": "14",
+      "version": "TKQ1.230213.001",
+      "android_version": "13",
+      "android_spl": "2023-02-05",
+      "changelog_device": "System: Kernel Upstream, System: Fix Battery Stats, System: Enable VoLTE VoWiFI ViLTE for Iran, Fix Charging(Fast and Power off) issues for Haydn and Vili"
+    },
+    {
       "date": "2023-03-14",
       "datetime": "1678794356",
       "filename": "T.20230312.193908_T.20230314.125020-increament_ota_update.zip",
