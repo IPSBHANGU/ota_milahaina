@@ -14,7 +14,7 @@
       "version_code": "14",
       "version": "TKQ1.230213.001",
       "android_version": "13",
-      "android_spl": "2023-02-05",
+      "android_spl": "2023-02-01",
       "changelog_device": "System: Kernel Upstream, System: Fix Battery Stats, System: Enable VoLTE VoWiFI ViLTE for Iran, Fix Charging(Fast and Power off) issues for Haydn and Vili"
     },
     {
