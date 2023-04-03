@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-04-03",
+      "datetime": "1680510103",
+      "filename": "T.20230402.203443_T.20230403.102456-incremental_ota_update.zip",
+      "url": "https://gitlab.com/inderpreetsinghb/milahaina_releases/-/raw/63c800986d7243b5f8c44ecddad53b033e8a6f93/T.20230402.203443_T.20230403.102456-incremental_ota_update.zip",
+      "fastboot": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "7429e80df68f2ea70bbaf0567b51b86f62d4c44148f54e654ef9bc795ce4a2d1",
+      "size": "15163200",
+      "build_type": "release",
+      "version_code": "16",
+      "version": "TKQ1.230213.001",
+      "android_version": "13",
+      "android_spl": "2023-02-01",
+      "changelog_device": "System: USB hal"
+    },
+    {
       "date": "2023-04-02",
       "datetime": "1680460205",
       "filename": "T.20230312.193908_T.20230402.203443-incremental_ota_update.zip",
