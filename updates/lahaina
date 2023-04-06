@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-04-06",
+      "datetime": "1680745431",
+      "filename": "merged-qssi_lahaina-ota.zip",
+      "url": "https://gitlab.com/inderpreetsinghb/t.20230406.034805/-/raw/a46c5d4a23fac09878f98d77dec64d653c674608/merged-qssi_lahaina-ota.zip",
+      "fastboot": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "dc60b8db44fffc3211f5cfc1c88bfbe051b2ed990f3059e5f1082d7cfd73c5ff",
+      "size": "2559925166",
+      "build_type": "release",
+      "version_code": "17",
+      "version": "TKQ1.230213.001",
+      "android_version": "13",
+      "android_spl": "2023-02-01",
+      "changelog_device": "System: Fix charging finally"
+    },
+    {
       "date": "2023-04-03",
       "datetime": "1680510103",
       "filename": "T.20230402.203443_T.20230403.102456-incremental_ota_update.zip",
