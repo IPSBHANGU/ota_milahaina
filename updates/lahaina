@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-04-30",
+      "datetime": "1682859245",
+      "filename": "merged-qssi_lahaina-ota.zip",
+      "url": "https://gitlab.com/inderpreetsinghb/milahaina_releases/-/raw/6755de99ca7d785b94be5813ebc7dc9117c9279f/444a57262ce9df23395f90bcca76519bd739cfebffff4ae07e2463bfad705031.zip",
+      "fastboot": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "444a57262ce9df23395f90bcca76519bd739cfebffff4ae07e2463bfad705031",
+      "size": "2556193839",
+      "build_type": "release",
+      "version_code": "18",
+      "version": "TKQ1.230213.001",
+      "android_version": "13",
+      "android_spl": "2023-02-01",
+      "changelog_device": "System: Unify Charging driver, System: Update some stuff"
+    },
+    {
       "date": "2023-04-06",
       "datetime": "1680745431",
       "filename": "merged-qssi_lahaina-ota.zip",
