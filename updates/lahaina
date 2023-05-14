@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-05-14",
+      "datetime": "1683996396",
+      "filename": "merged-qssi_lahaina-ota.zip",
+      "url": "https://gitlab.com/inderpreetsinghb/downnnn/-/raw/201433d74e4f28ca385493fd132c42e23c88a281/merged-qssi_lahaina-ota.zip",
+      "fastboot": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "984f73eb28717b6edbfcac27e564de5cf4edfc306d8b58332e7bd8a67d75b4f5",
+      "size": "2558217699",
+      "build_type": "release",
+      "version_code": "20",
+      "version": "TKQ1.230420.001",
+      "android_version": "13",
+      "android_spl": "2023-04-05",
+      "changelog_device": "System: Update to QPR2, System: Add Color balance, System: Update qssi blobs to LA.QSSI.13.0.r1-09700-qssi.0, System: Add quick-access Flashlight and Camera togles at lock-screen, System: Add a option to diable screenshot sound, System: Add option to add/remove status bar icons, System: Add option to diable Wi-Fi standard on WiFi icon, System: Fix icon pack not dynamically updating at lock-screen(REQUIRED-REBOOT-EARLIER), System: Add WiFi standard icon pack for wifi icon to properly match full system icon scheme, System: Improve Scrolling Animation, SystemUI: Enable media background turbulence, SystemUI: Enable media player surface ripple on button press, SystemUI: Fix suspicious spaces around mobile icons, SystemUI: Add colors to google assistant animation, SystemUI: Use monet to theme power menu, SystemUI: Show bluetooth battery level, SystemUI: Fix multiple visible volume rows in landscape"
+    },
+    {
       "date": "2023-04-30",
       "datetime": "1682859245",
       "filename": "merged-qssi_lahaina-ota.zip",
