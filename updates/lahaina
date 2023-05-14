@@ -2,6 +2,20 @@
   "updates": [
     {
       "date": "2023-05-14",
+      "datetime": "1684060763",
+      "filename": "T.20230514.104147_T.20230513.164824-incremental_ota_update.zip",
+      "url": "https://gitlab.com/inderpreetsinghb/gms/-/raw/7fa95e0f43f744ecf22e08abc0fa6ce3b58a887e/T.20230514.104147_T.20230513.164824-incremental_ota_update.zip",
+      "id": "2a1e0fd457514d79ae0c2aa43ff5c31af216e408aa7ed461ff4c65eb52881275 ",
+      "size": "14249568",
+      "build_type": "release",
+      "version_code": "21",
+      "version": "TKQ1.230420.001",
+      "android_version": "13",
+      "android_spl": "2023-04-05",
+      "changelog_device": "System: Fix Hotspot, System: Update haydn displayconfig and overlays, Increament from T.20230514.104147 to T.20230513.164824"
+    },
+    {
+      "date": "2023-05-14",
       "datetime": "1683996396",
       "filename": "merged-qssi_lahaina-ota.zip",
       "url": "https://gitlab.com/inderpreetsinghb/downnnn/-/raw/201433d74e4f28ca385493fd132c42e23c88a281/merged-qssi_lahaina-ota.zip",
