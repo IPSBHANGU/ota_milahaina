@@ -1,6 +1,23 @@
 {
   "updates": [
     {
+      "date": "2023-08-01",
+      "datetime": "1690878640",
+      "filename": "merged-qssi_lahaina-ota.zip",
+      "url": "https://gitlab.com/milahainaproject/clo-release/-/raw/main/merged-qssi_lahaina-ota.zip?ref_type=heads",
+      "fastboot": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "0f0c2fa013d7c91a84dca16488311f6f4cec64cc",
+      "size": "2640391532",
+      "build_type": "release",
+      "version_code": "22",
+      "version": "TKQ1.230420.001",
+      "android_version": "13",
+      "android_spl": "2023-07-05",
+      "changelog_device": "System: Update to QPR3, System: Fix Diag-hal crash, System: Update blobs to LA.QSSI.9.14.r1.22000-LAHAINA.QSSI12.0, System: Update to LA.QSSI.13.0.r1-10900-qssi.0, System: Updated to July 05,2023 Security patch level"
+    },
+    {
       "date": "2023-05-14",
       "datetime": "1684060763",
       "filename": "T.20230514.104147_T.20230513.164824-incremental_ota_update.zip",
