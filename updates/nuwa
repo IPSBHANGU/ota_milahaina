@@ -1,0 +1,21 @@
+{
+  "updates": [
+    {
+      "date": "2023-10-06",
+      "datetime": "1696579173",
+      "filename": "merged-qssi_kalama-ota.zip",
+      "url": "https://gitlab.com/inderpreetsinghb/clooo/-/raw/main/merged-qssi_kalama-ota.zip?ref_type=heads",
+      "fastboot": "",
+      "mirror": "",
+      "telegram": "",
+      "id": "d0610956f98fbf19ec5c4d1dac65a0c67221ca4a",
+      "size": "2582007457",
+      "build_type": "release",
+      "version_code": "2",
+      "version": "TKQ1.221220.001",
+      "android_version": "13",
+      "android_spl": "2023-06-05",
+      "changelog_device": "Initial OTA Testing!"
+    }
+   ]
+}

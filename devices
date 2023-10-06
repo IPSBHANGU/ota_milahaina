@@ -15,6 +15,22 @@
                "maintainer_link": "",
                "maintainer_country": "",
                "xda_thread": ""
+          },
+          {
+               "name": "clo",
+               "codename": "nuwa",
+               "manufacturer": "Xiaomi",
+               "supported_versions": [
+                    "TKQ1.221220.001"
+               ],
+               "supported_types": [
+                    "release"
+               ],
+               "active": true,
+               "maintainer_name": "",
+               "maintainer_link": "",
+               "maintainer_country": "",
+               "xda_thread": ""
           }
      ]
 }
