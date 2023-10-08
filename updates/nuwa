@@ -1,21 +1,21 @@
 {
   "updates": [
     {
-      "date": "2023-10-07",
+      "date": "2023-10-08",
       "datetime": "1696674466",
       "filename": "merged-qssi_kalama-ota.zip",
-      "url": "https://gitlab.com/inderpreetsinghb/clooo/-/raw/main/merged-qssi_kalama-ota.zip?ref_type=heads",
+      "url": "https://gitlab.com/inderpreetsinghb/up-clo/-/raw/main/merged-qssi_kalama-ota.zip",
       "fastboot": "",
       "mirror": "",
       "telegram": "",
-      "id": "39bffdd89292931902979cff75dc3f29a30792d8",
-      "size": "2683447897",
+      "id": "6e50a2e3d7db17d13e6ba7acc9e9170bb6583703",
+      "size": "2677681312",
       "build_type": "release",
-      "version_code": "3",
+      "version_code": "6",
       "version": "TKQ1.221220.001",
       "android_version": "13",
       "android_spl": "2023-06-05",
-      "changelog_device": "Fix Refresh Rate switching, Try-fix screen-recording and other media releated issues, Misc: wip add Miui Camera! May not work!, System: Fix IR servce, System: Fix Double Tap not working bug!"
+      "changelog_device": "Try Fix issue with media playback, Mess around haptics!"
     },
     {
       "date": "2023-10-06",
