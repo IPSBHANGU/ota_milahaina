@@ -2,14 +2,14 @@
   "updates": [
     {
       "date": "2023-10-08",
-      "datetime": "1696674466",
+      "datetime": "1696777989",
       "filename": "merged-qssi_kalama-ota.zip",
       "url": "https://gitlab.com/inderpreetsinghb/up-clo/-/raw/main/merged-qssi_kalama-ota.zip",
       "fastboot": "",
       "mirror": "",
       "telegram": "",
-      "id": "6e50a2e3d7db17d13e6ba7acc9e9170bb6583703",
-      "size": "2677681312",
+      "id": "40a4c4af586d30b1855f6d00e61a002497e8b35d",
+      "size": "2677673346",
       "build_type": "release",
       "version_code": "6",
       "version": "TKQ1.221220.001",
