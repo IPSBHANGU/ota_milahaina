@@ -5,6 +5,9 @@
       "datetime": "1696868910",
       "filename": "merged-qssi_kalama-ota.zip",
       "url": "https://gitlab.com/inderpreetsinghb/priv/-/raw/main/merged-qssi_kalama-ota.zip",
+      "fastboot": "",
+      "mirror": "",
+      "telegram": "",
       "id": "f1cf2f38fcd24a2acdcdc4661b464723a921881a",
       "size": "2679519079",
       "build_type": "release",
@@ -12,7 +15,7 @@
       "version": "TKQ1.221220.001",
       "android_version": "13",
       "android_spl": "2023-06-05",
-      "changelog_device": "Fix issue with media playback for DRM protected apps like Netflix and Prime Video, Fix and issue with wifi not connecting to 2.4 Ghz networks"
+      "changelog_device": "Fix issue with media playback for DRM protected apps like Netflix and Prime Video, Fix and issue with wifi not connecting to 2.4 Ghz networks, Fix 4K and 8K Video Recording for Miui Camera"
     },
     {
       "date": "2023-10-08",
